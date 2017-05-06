@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 4121e5b50f9557740b519669a611a488
+timeCreated: 1493867948
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - peasantAttackSound: {fileID: 8300000, guid: 049d47796cc55a244a59881ddb0b3114,
+      type: 3}
+  - archerAttackSound: {fileID: 8300000, guid: 434db880ba799e948b6b309d62e069e7, type: 3}
+  - knightAttackSound: {fileID: 8300000, guid: eb313277d4ff9984d9796e3b9dadd61c, type: 3}
+  - ninjaAttackSound: {fileID: 8300000, guid: 7eb572c989f5cea41b75fafc7ba18d85, type: 3}
+  - mageAttackSound: {fileID: 8300000, guid: 2e356b99faf06b44ca6846927dd3c51e, type: 3}
+  - kingAttackSound: {fileID: 8300000, guid: 023c3d6194b69364686b8bdfbdab94f6, type: 3}
+  - soundPlayer: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
